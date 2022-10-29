@@ -5,6 +5,8 @@
         <title>Belajar Git - Belajar</title>
     </head>
     <body>
-        <p>Hallo Semua, Saya sedang belajar Git</p>
+        <p>Hallo Dunia, Saya sedang belajar Git</p>
+        <p>Susah Juga ya</p>
+
     </body>
 </html>
